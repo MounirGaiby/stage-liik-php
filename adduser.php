@@ -99,7 +99,7 @@ if(isset($_POST)) {
 
 			// $to = $email;
 
-			// $subject = "Job Portal - Confirm Your Email Address";
+			// $subject = "stage liik - Confirm Your Email Address";
 
 			// $message = '
 			

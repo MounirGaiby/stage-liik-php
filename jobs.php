@@ -12,7 +12,7 @@ require_once("db.php");
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Job Portal</title>
+  <title>stage liik</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.7 -->
@@ -45,9 +45,9 @@ require_once("db.php");
     <!-- Logo -->
     <a href="index.php" class="logo logo-bg">
       <!-- mini logo for sidebar mini 50x50 pixels -->
-      <span class="logo-mini"><b>J</b>P</span>
+      <span class="logo-mini"><b>S</b>L</span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg"><b>Job</b> Portal</span>
+      <span class="logo-lg"><b>Stage</b> Liik</span>
     </a>
 
     <!-- Header Navbar: style can be found in header.less -->
@@ -113,12 +113,12 @@ require_once("db.php");
                 <h3 class="box-title">Filters</h3>
               </div>
               <div class="box-body no-padding">
-                <ul class="nav nav-pills nav-stacked tree" data-widget="tree">
+                <!-- <ul class="nav nav-pills nav-stacked tree" data-widget="tree">
                   <li class="treeview menu-open">
                     <a href="#"><i class="fa fa-plane text-red"></i> City <span class="pull-right"><i class="fa fa-angle-down pull-right"></i></span></a>
                     <ul class="treeview-menu">
-                      <li><a href=""  class="citySearch" data-target="Delhi"><i class="fa fa-circle-o text-yellow"></i> Delhi</a></li>
-                      <li><a href="" class="citySearch" data-target="Kouba"><i class="fa fa-circle-o text-yellow"></i> Kouba</a></li>
+                      <li><a href=""  class="citySearch" data-target="Delhi"><i class="fa fa-circle-o text-yellow"></i> Casablanca</a></li>
+                      <li><a href="" class="citySearch" data-target="Kouba"><i class="fa fa-circle-o text-yellow"></i> Rabat</a></li>
                     </ul>
                   </li>
                   <li class="treeview menu-open">
@@ -131,7 +131,7 @@ require_once("db.php");
                       <li><a href="" class="experienceSearch" data-target='5'><i class="fa fa-circle-o text-yellow"></i> > 5 Years</a></li>
                     </ul>
                   </li>
-                </ul>
+                </ul> -->
               </div>
             </div>
           </div>
@@ -176,7 +176,7 @@ require_once("db.php");
 
   <footer class="main-footer" style="margin-left: 0px;">
     <div class="text-center">
-      <strong>Copyright &copy; 2016-2017 <a href="learningfromscratch.online">Job Portal</a>.</strong> All rights
+      <strong>Copyright &copy; 2023-2024 <a href="learningfromscratch.online">stage liik</a>.</strong> All rights
     reserved.
     </div>
   </footer>

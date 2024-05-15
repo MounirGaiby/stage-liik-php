@@ -4,7 +4,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "job_portal";
+$dbname = "stage_liik";
 
 //Create New Database Connection
 $conn = new mysqli($servername, $username, $password, $dbname);
